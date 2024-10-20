@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Web Developer Intern",
+    "organisation": "GrapplTech",
+    "startDate": "Aug, 2024",
+    "endDate": "Sep, 2024",
+    "location": "Work from home",
+    "experiences": [
+      "Worked on GrapplTech",
+      "Worked with GrapplTech Web development Team"
+    ],
+    "imageSrc": "company/grappltech.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Web Development Intern",
+    "organisation": "Enerzyflow",
+    "startDate": "May, 2023",
+    "endDate": "Aug, 2023",
+    "location": "Work from home",
+    "experiences": [
+      "Worked on Enerzyflow",
+      "Worked on Enerzyflow Web Team"
+    ],
+    "imageSrc": "company/energyflow.png"
+  }
+]
